@@ -1,15 +1,14 @@
-// function App(){
-//   return (
-//     <Muna/>
-//   )
-// }
 
-import UserCard from "./UserCard";
 
-function App () {
+import Blog  from "./Blog";
+
+function App ()  {
   return (
-    <UserCard/>
-  );
+   <>
+    <Blog/> 
+   </>
+   
+  )
 }
 
 
